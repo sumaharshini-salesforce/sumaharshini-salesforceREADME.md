@@ -51,4 +51,4 @@ I am eager to contribute to Salesforce projects and deliver scalable CRM solutio
 
 ---
 
-⭐ Actively looking for Salesforce Admin / Developer opportunities in Bangalore.
+⭐ Actively looking for Salesforce Admin / Developer opportunities in Hyderabad and Bangalore.
