@@ -18,7 +18,6 @@
 ## 💼 About Me
 
 I am a passionate Salesforce Fresher with hands-on experience in both Administration and Development. I have practiced Apex Triggers, Record-Triggered Flows, and Admin tasks like Validation Rules and Reports & Dashboards.  
-
 I am eager to contribute to Salesforce projects and deliver scalable CRM solutions.  
 
 ---
