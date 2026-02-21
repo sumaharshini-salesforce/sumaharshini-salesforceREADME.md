@@ -52,3 +52,17 @@ I am eager to contribute to Salesforce projects and deliver scalable CRM solutio
 ---
 
 ⭐ Actively looking for Salesforce Admin / Developer opportunities in Hyderabad and Bangalore.
+
+## 🎓 Education
+
+- **Master of Computer Apllications (MCA)** in Computer Science  
+  Vignan University, Guntur | 2025
+  
+- **Bachelor's Degree (B.sc)** in Chemistry
+  Aadikavi Nanayya University | 2020
+
+- **Higher Secondary (12th)**  
+  VidyaVikas Junior College, Jangareddygudem | 2017 
+
+- **Secondary School (10th)**  
+  VidyaVikas HighSchool, Jangareddygudem | 2015
