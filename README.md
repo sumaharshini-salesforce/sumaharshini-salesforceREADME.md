@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sumaharshini Lanka
 
 🚀 Salesforce Admin & Developer Fresher  
-📍 Bangalore | Open to Work  
+📍 Hyderabad, Bangalore | Open to Work  
 
 ---
 
